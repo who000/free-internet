@@ -1,8 +1,8 @@
 # free-internet
-free-Internet
-124sadf
-8rw3hjfa6nusvd
-38rehfsnmvd
-q83orahufjvx
-qr87hfasdunmv
-rqw8hepaufs;ndk
+网络不应该被封锁;
+网络不应该被审查;
+信息不应给被收费;
+信息不应给被封锁;
+Hello guys;
+这将帮助你访问那自由的互联网;
+Enjoy free Internet;
