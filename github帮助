@@ -1,0 +1,8 @@
+git clone	#克隆远程仓库:
+git config user
+git config user
+git config --list		#验证仓库;
+git add a1.txt	#将a1添加到暂存区域;
+git commit -m '添加的描述'	#第二次提交暂存仓库;
+git push	#提交到远程仓库;
+
