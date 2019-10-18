@@ -15,6 +15,4 @@
 wget wget https://github.com/who000/free-internet/archive/master.zip && unzip master.zip && chmod 755 free-internet-master/install-v2ray.sh && ./free-internet-master/install-v2ray.sh
 
 ###一些推荐
-推荐使用Debian9,
-
 ###Enjoy;
